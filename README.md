@@ -29,6 +29,6 @@ Encrypt data
 
 	String encryptData = transportEncrypt.encode(encryptKey, new User(1, "alan"));
 
-** Exception **
+**Exception**
 
 If your project import Gson too. Have throw exception `Unable to execute dex: Multiple dex files define Lcom/google/gson/JsonSerializer;`
